@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+.text-stroke-dark {
+  color: #1d2433;
+  text-shadow:
+    1px 1px 0 #fff,
+    -1px -1px 0 #fff,
+    1px -1px 0 #fff,
+    -1px 1px 0 #fff,
+    1px 1px 0 #fff;
+}
+@tailwind utilities;
