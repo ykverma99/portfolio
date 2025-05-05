@@ -17,7 +17,7 @@ const Main = () => {
           </h3>
           <div className="flex h-full items-end">
             <span className="space-x-4">
-              <a href="#projects">
+              <a href="https://github.com/ykverma99">
                 <Button varient={"outline"}>See My Work</Button>
               </a>
               <Button varient={"outline"} className={"border-white"}>
